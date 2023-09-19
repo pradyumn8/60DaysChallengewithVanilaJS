@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    background-color: #333;
+    color: #fff;
+}
+#insert{
+    text-align: center;
+    margin-top: 300px;
+    font-weight: 800;
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+    font-size: 4rem;
+}
