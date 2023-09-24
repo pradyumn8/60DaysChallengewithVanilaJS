@@ -25,4 +25,8 @@ Project	Live Demo
             <td><a href="https://shorturl.at/jkM35">ASCII and Unicode Detecter ✓</a></td>
             <td><a href="https://shorturl.at/hkHO2">Live Project</a></td>
         </tr>
+        <tr>
+            <td><a href="https://shorturl.at/suFO3">NetWork Strength Checker ✓</a></td>
+            <td><a href="https://shorturl.at/iCI26">Live Project</a></td>
+        </tr>
  </table>
