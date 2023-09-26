@@ -36,7 +36,7 @@ Project	Live Demo
        </tr>
         </tr>
         <tr>
-            <td><a href="https://shorturl.at/gxHJ9">Loan Calculator ✓</a></td>
+            <td><a href="https://shorturl.at/gxHJ9">Time and Date Widget ✓</a></td>
             <td><a href="https://shorturl.at/aBDEG">Live Project🌐</a></td>
        </tr>
  </table>
