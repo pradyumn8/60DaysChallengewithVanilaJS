@@ -41,7 +41,7 @@ Project	Live Demo
        </tr>
         <tr>
             <td><a href="https://shorturl.at/dHX06">Anolog Clock Application ✓</a></td>
-            <td><a href="https://shorturl.at/hjWX4">Live Project🌐</a></td>
+            <td><a href="https://zippy-lokum-e2c7aa.netlify.app/">Live Project🌐</a></td>
        </tr>
         <tr>
             <td><a href="https://shorturl.at/jknB8">Theme Clock ✓</a></td>
