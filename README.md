@@ -47,4 +47,8 @@ Project	Live Demo
             <td><a href="https://shorturl.at/jknB8">Theme Clock ✓</a></td>
             <td><a href="https://65152b16d959405ff3999ce4--merry-raindrop-3a9649.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://lnkd.in/dC2QTYNQ">Age Calculator ✓</a></td>
+            <td><a href=" https://lnkd.in/d2xR7unZ">Live Project🌐</a></td>
+       </tr>
  </table>
