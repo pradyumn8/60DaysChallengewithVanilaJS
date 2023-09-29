@@ -51,4 +51,8 @@ Project	Live Demo
             <td><a href="https://lnkd.in/dC2QTYNQ">Age Calculator ✓</a></td>
             <td><a href="https://6516759613a91b44a9d464bd--comfy-sherbet-ff7937.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://lnkd.in/deQhf5RH">To-Do List Application ✓</a></td>
+            <td><a href="https://lnkd.in/dJ2ygdK4">Live Project🌐</a></td>
+       </tr>
  </table>
