@@ -52,7 +52,7 @@ Project	Live Demo
             <td><a href="https://6516759613a91b44a9d464bd--comfy-sherbet-ff7937.netlify.app/">Live Project🌐</a></td>
        </tr>
         <tr>
-            <td><a href="https://lnkd.in/deQhf5RH">To-Do List Application ✓</a></td>
-            <td><a href="https://lnkd.in/dJ2ygdK4">Live Project🌐</a></td>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/6afa95ab9748243b34fc07039c9fa40eab111f1b/ProjectDay12">To-Do List Application ✓</a></td>
+            <td><a href="https://651746410c95ec2e69c0157f--jade-kataifi-e57e5a.netlify.app/">Live Project🌐</a></td>
        </tr>
  </table>
