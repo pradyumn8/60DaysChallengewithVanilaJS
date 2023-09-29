@@ -49,6 +49,6 @@ Project	Live Demo
        </tr>
         <tr>
             <td><a href="https://lnkd.in/dC2QTYNQ">Age Calculator ✓</a></td>
-            <td><a href="https://lnkd.in/d2xR7unZ">Live Project🌐</a></td>
+            <td><a href="https://6516759613a91b44a9d464bd--comfy-sherbet-ff7937.netlify.app/">Live Project🌐</a></td>
        </tr>
  </table>
