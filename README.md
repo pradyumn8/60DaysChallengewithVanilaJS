@@ -63,5 +63,9 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/0d7f27bb287764c0cad089ecacff32011ac86081/ProjectDay14">Enchanting Password Generator ✓</a></td>
             <td><a href="https://651a2376b44105331c1b34c0--courageous-axolotl-2e23b5.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/9d16bf935cc2d595ca7a48101f1bc3b8ce134551/ProjectDay15">MagnetPara Generator ✓</a></td>
+            <td><a href="https://651b600a6346fc056a65b9b9--incomparable-rugelach-9e19f6.netlify.app/">Live Project🌐</a></td>
+       </tr>
        
  </table>
