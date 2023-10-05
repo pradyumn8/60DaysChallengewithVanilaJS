@@ -71,5 +71,9 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/c1423ab7c33ddcc7b4601fae6b2b093846ac80ed/ProjectDay16">Vowel Checker ✓</a></td>
             <td><a href="https://651cc42a404969628ba5923c--genuine-jelly-00cc29.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/32874796b1ac5a7439db9deaa654a1b087123688/ProjectDay17">Review Card ✓</a></td>
+            <td><a href="https://651e150ae8158113f7d1ae9f--neon-chaja-09a8ea.netlify.app/">Live Project🌐</a></td>
+       </tr>
        
  </table>
