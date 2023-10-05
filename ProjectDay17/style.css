@@ -1,0 +1,124 @@
+
+* {
+    background-color: rgb(227, 235, 241);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0; 
+    padding: 0;
+}
+
+.title {
+    text-align: center;
+    font-size: 2rem;
+    background: none;
+}
+
+.underline {
+    border: 0.2rem inset rgb(47, 186, 241);
+    width: 40%;
+    margin: auto;
+    border-radius: 5px;
+    margin-bottom: 2rem !important;
+}
+
+.review {
+    text-align: center;
+    width: 100%;
+    max-width: 30rem; 
+    background-color: white;
+    border-radius: 2rem;
+    padding: 2rem; 
+    box-shadow: 0 2px 1px rgba(0, 1, 2, 0.2);
+}
+
+.img-container {
+    background: none;
+}
+
+#person-img {
+    border-radius: 50%;
+    width: 10rem;
+    max-width: 100%; 
+}
+#author {
+    font-size: 2rem; 
+    background: none;
+}
+
+#job {
+    background: none;
+    font-size: 1.2rem; 
+    color: blue;
+    margin-top: -2rem; 
+    font-weight: 500;
+}
+
+#info {
+    background: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.btn-container {
+    background: none;
+    padding-bottom: 1rem;
+}
+
+.prev-btn, .next-btn {
+    color: black;
+    border: 0.2rem solid black;
+    width: 10rem;
+    border-radius: 1.2rem;
+    height: 3rem;
+    font-size: 1.6rem; 
+}
+
+
+@media (max-width: 768px) {
+    .review {
+        padding: 1rem; 
+    }
+
+    #author {
+        font-size: 1.5rem;
+    }
+
+    #job {
+        font-size: 1rem;
+        margin-top: -1rem;
+    }
+
+    .prev-btn, .next-btn {
+        font-size: 1.4rem;
+    }
+}
+@media (max-width: 280px) {
+    .review {
+        max-width: 100%; 
+        padding: 1rem; 
+
+    #person-img {
+        width: 7rem;
+    }
+
+    #author {
+        font-size: 1.4rem; 
+    }
+
+    #job {
+        font-size: 1rem;
+        margin-top: -0.5rem; 
+    }
+
+    .prev-btn, .next-btn {
+        font-size: 1.2rem; 
+    }
+}
+}
