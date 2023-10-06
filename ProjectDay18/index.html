@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Styling Playground ✓</title>
+    <link rel="icon" href="https://fav.farm/🧑‍💻" />
+
+</head>
+<body>
+    <h2>Update CSS Variables with <span class="hl">Vanila JS</span></h2>
+    <div class="controls">
+        <label for="spacing">Spacing</label>
+        <input type="range" name="spacing" id="spacing" min="10" max="200" value="10" data-sizing="px">
+        <label for="blur">Blur:</label>
+        <input type="range" name="blur" id="blur" min="0" max="25" value="10" data-sizing="px">
+        <label for="base">Base Color</label>
+        <input type="color" id="base" name="base" value="#ffc600">
+    </div>
+    <img src="https://plus.unsplash.com/premium_photo-1673641895483-2119e6d9fd75?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTV8fGNyZWF0dXJlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60/800x500" alt="image">
+
+    
+    <!-- CSS -->
+    <style>
+        :root{
+            --base:#ffc600;
+            --spacing:10px;
+            --blur:10px;
+        }
+        img{
+            padding: var(--spacing);;
+            background: var(--base);
+            filter: blur(var(--blur));
+        }
+        .hl{
+            color: var(--base);
+        }
+        body{
+            text-align: center;
+            background: #193549;
+            color:#fff;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 100;
+            font-size: 50px;
+        }
+        .controls{
+            margin-bottom: 50px;
+        }
+        input{
+            width: 100px;
+        }
+        
+    @media screen and (max-width: 768px) {
+        h2,label{
+            font-size: 30px;
+            /* display: block; */
+        }
+        img{
+            max-width: 400px;
+        }
+    }
+    @media screen and (max-width: 567px) {
+        h2,label{
+            font-size: 20px;
+            display: block;
+        }
+        img{
+            max-width: 250px;
+        }
+    }
+    </style>
+
+    <!-- JAVASCRIPT -->
+<script>
+    const inputs = document.querySelectorAll('.controls input');
+    
+    function handleUpdate(){
+        const suffix = this.dataset.sizing || '';
+        document.documentElement.style.setProperty(`--${this.name}`, this.value + suffix);
+      }
+    inputs.forEach(input => input.addEventListener('change',handleUpdate));
+    inputs.forEach(input => input.addEventListener('mousemove',handleUpdate));
+
+</script>
+</body>
+</html>
