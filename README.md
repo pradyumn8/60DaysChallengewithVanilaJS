@@ -75,5 +75,9 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/32874796b1ac5a7439db9deaa654a1b087123688/ProjectDay17">Review Card ✓</a></td>
             <td><a href="https://651e150ae8158113f7d1ae9f--neon-chaja-09a8ea.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/ba369dd53bebeb0d6c3128c33910770f3e484a1e/ProjectDay18">Dynamic Styling Playground ✓</a></td>
+            <td><a href="https://651f65e89290f33ab3afe42d--preeminent-rugelach-052840.netlify.app/">Live Project🌐</a></td>
+       </tr>
        
  </table>
