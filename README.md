@@ -88,7 +88,7 @@ Project	Live Demo
             <td><a href="https://6521f6af419559528a240e6b--coruscating-rolypoly-8bc755.netlify.app/">Live Project🌐</a></td>
        </tr>
         <tr>
-            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/82c7a43085775568993a39c769b81375c2a00052/ProjectDay21">HTML Video Player ✓</a></td>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/82c7a43085775568993a39c769b81375c2a00052/ProjectDay21">Flex Panels ✓</a></td>
             <td><a href="https://652351f9b2459417fbc0391a--neon-selkie-520529.netlify.app/?">Live Project🌐</a></td>
        </tr>
        
