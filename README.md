@@ -91,5 +91,9 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/82c7a43085775568993a39c769b81375c2a00052/ProjectDay21">Flex Panels ✓</a></td>
             <td><a href="https://652351f9b2459417fbc0391a--neon-selkie-520529.netlify.app/?">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/308e470fc1e28990f38441cef21ab7c7169d706d/ProjectDay22">Vanilla JS Slider ✓</a></td>
+            <td><a href="https://6524b12a30106b6f5cac7630--merry-starship-599c23.netlify.app/">Live Project🌐</a></td>
+       </tr>
        
  </table>
