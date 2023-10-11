@@ -99,5 +99,9 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/9339d5f0ad4d9db3c5a447d5c8ac81cb01a21296/ProjectDay23">Elegant Slider ✓</a></td>
             <td><a href="https://6525e9c3c0461f5b762d092e--mellifluous-profiterole-47ccf3.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/67a4c5ee48773d31b6caea9cd01ec910441df3d6/ProjectDay24">Dynamic Background Slider ✓</a></td>
+            <td><a href="https://dynamicbackgroundslider.netlify.app/">Live Project🌐</a></td>
+       </tr>
        
  </table>
