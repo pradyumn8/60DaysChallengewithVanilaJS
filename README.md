@@ -79,7 +79,7 @@ Project	Live Demo
        </tr>
         <tr>
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/6afb57856fc3f1106a71be57e43c401514741d81/ProjectDay19">HTML Video Player ✓</a></td>
-            <td><a href="hhttps://html-videoplayer.netlify.app/">Live Project🌐</a></td>
+            <td><a href="https://html-videoplayer.netlify.app/">Live Project🌐</a></td>
        </tr>
         <tr>
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/79d4f199894d7f45383715567cd2561064626bdc/ProjectDay20">Debouncer Implemented Page ✓</a></td>
