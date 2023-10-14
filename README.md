@@ -87,7 +87,7 @@ Project	Live Demo
        </tr>
         <tr>
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/82c7a43085775568993a39c769b81375c2a00052/ProjectDay21">Flex Panels ✓</a></td>
-            <td><a href="https://flex-panels-application.netlify.app/">Live Project🌐</a></td>
+            <td><a href="https://drags-and-drop.netlify.app/li">Live Project🌐</a></td>
        </tr>
         <tr>
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/308e470fc1e28990f38441cef21ab7c7169d706d/ProjectDay22">Vanilla JS Slider ✓</a></td>
@@ -101,5 +101,12 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/67a4c5ee48773d31b6caea9cd01ec910441df3d6/ProjectDay24">Dynamic Background Slider ✓</a></td>
             <td><a href="https://dynamicbackgroundslider.netlify.app/">Live Project🌐</a></td>
        </tr>
-       
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/fe14ccc1f27f4735d819ec925f5ee5be312235a5/ProjectDay25">Serenity Landing Page ✓</a></td>
+            <td><a href="https://serentitylandingpage.netlify.app/">Live Project🌐</a></td>
+       </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/e68907f85d2da99a9c0bc9e8cc1a2ad5ea6717fb/ProjectDay26">Drag N Drop ✓</a></td>
+            <td><a href="https://drags-and-drop.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
