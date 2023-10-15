@@ -109,4 +109,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/e68907f85d2da99a9c0bc9e8cc1a2ad5ea6717fb/ProjectDay26">Drag N Drop ✓</a></td>
             <td><a href="https://drags-and-drop.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/ca331e9a9a47c1e29af94706b5e234fc1e7bf354/ProjectDay27">Mobile Tab Navigation ✓</a></td>
+            <td><a href="https://tabmobinav.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
