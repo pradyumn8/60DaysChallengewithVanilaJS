@@ -113,4 +113,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/ca331e9a9a47c1e29af94706b5e234fc1e7bf354/ProjectDay27">Mobile Tab Navigation ✓</a></td>
             <td><a href="https://tabmobinav.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/71565bd1bb054ddd25f619919b9cff6d032a0527/ProjectDay28">DoubleTap Love ✓</a></td>
+            <td><a href="https://doubletaplove.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
