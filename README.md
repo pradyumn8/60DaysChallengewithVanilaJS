@@ -10,8 +10,8 @@ Project	Live Demo
             <td><a href="https://eventskeycode.netlify.app/">Live Project🌐</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/923c60dfd089dc4cb17b04fb2c78a283b34634ce/ProjectDay2">Counter Application ✓</a></td>
-            <td><a href="https://numeric-counter-application.netlify.app/">Live Project🌐</a></td>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/a5c20198507e0cb5890cb20218ec209bc8ad4e92/ProjectDay2">Counter Application ✓</a></td>
+            <td><a href="https://counter-number-application.netlify.app/">Live Project🌐</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/923c60dfd089dc4cb17b04fb2c78a283b34634ce/ProjectDay3">Palindrome Checker ✓</a></td>
