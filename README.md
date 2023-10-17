@@ -117,4 +117,9 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/71565bd1bb054ddd25f619919b9cff6d032a0527/ProjectDay28">DoubleTap Love ✓</a></td>
             <td><a href="https://doubletaplove.netlify.app/">Live Project🌐</a></td>
        </tr>
+       </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/97e02b759d784a2dea9ec0d8009ba5d9c7f000c4/ProjectDay29">Image Carousel ✓</a></td>
+            <td><a href="https://images-carousel.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
