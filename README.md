@@ -125,4 +125,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/2d69b37f60a4a22da08be018ab97cdd13dc2ec4c/ProjectDay30">Mouse Shadow ✓</a></td>
             <td><a href="https://mouse-shadow-contenteditable.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/0f5cdc813a2a77fd993451caf82594386a142f8d/ProjectDay31">Speech Synthesis ✓</a></td>
+            <td><a href="https://speechs-synthesis.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
