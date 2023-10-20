@@ -129,4 +129,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/0f5cdc813a2a77fd993451caf82594386a142f8d/ProjectDay31">Speech Synthesis ✓</a></td>
             <td><a href="https://speechs-synthesis.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/a509e9bbc6b3ba68fda1ef625dac24c687b8ab3a/ProjectDay32">Drum Kit ✓</a></td>
+            <td><a href="https://drum-kit-web-application.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
