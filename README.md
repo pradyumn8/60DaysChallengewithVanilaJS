@@ -133,4 +133,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/a509e9bbc6b3ba68fda1ef625dac24c687b8ab3a/ProjectDay32">Drum Kit ✓</a></td>
             <td><a href="https://drum-kit-web-application.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/cc8828e66b1ef20b19939f8dfd9f538eaec3f626/ProjectDay33">3D Boxes Playground ✓</a></td>
+            <td><a href="https://3d-boxes-playgrround.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
