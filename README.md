@@ -137,4 +137,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/cc8828e66b1ef20b19939f8dfd9f538eaec3f626/ProjectDay33">3D Boxes Playground ✓</a></td>
             <td><a href="https://3d-boxes-playgrround.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/a9c446c59d59d0de76d5cd680edf1dcbf421422c/ProjectDay34">Animated Countdown ✓</a></td>
+            <td><a href="https://countdownanimation.netlify.app/🌐</a></td>
+       </tr>
  </table>
