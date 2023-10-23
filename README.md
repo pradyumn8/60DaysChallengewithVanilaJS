@@ -141,4 +141,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/a9c446c59d59d0de76d5cd680edf1dcbf421422c/ProjectDay34">Animated Countdown ✓</a></td>
             <td><a href="https://countdownanimation.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/32743f4afbe39c56242614e7d063108fea2b4338/ProjectDay35">Speech Detection ✓</a></td>
+            <td><a href="https://voice-detection.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
