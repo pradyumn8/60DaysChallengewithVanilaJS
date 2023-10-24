@@ -145,4 +145,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/32743f4afbe39c56242614e7d063108fea2b4338/ProjectDay35">Speech Detection ✓</a></td>
             <td><a href="https://voice-detection.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/f35b40cc8b5af2478420b6608ddc386fd1cb30b1/ProjectDay36">Animated Navigation ✓</a></td>
+            <td><a href="https://animated-navigation-menu.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
