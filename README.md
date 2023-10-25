@@ -149,4 +149,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/f35b40cc8b5af2478420b6608ddc386fd1cb30b1/ProjectDay36">Animated Navigation ✓</a></td>
             <td><a href="https://animated-navigation-menu.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/4e2122d87fe745f5082023664821a42161922415/ProjectDay37">Auto Text Effect ✓</a></td>
+            <td><a href="https://autotext-effect-webapp.netlify.app/>Live Project🌐</a></td>
+       </tr>
  </table>
