@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    /* background-color: darksalmon; */
+    background-image:
+    radial-gradient(circle at 100% 150%, #FF5733 24%, #FF7645 25%, #FF7645 28%, #FF5733 29%, #FF5733 36%, #FF7645 36%, #FF7645 40%, transparent 40%, transparent),
+    radial-gradient(circle at 0 150%, #FF5733 24%, #FF7645 25%, #FF7645 28%, #FF5733 29%, #FF5733 36%, #FF7645 36%, #FF7645 40%, transparent 40%, transparent),
+    radial-gradient(circle at 50% 100%, #FF7645 10%, #FF5733 11%, #FF5733 23%, #FF7645 24%, #FF7645 30%, #FF5733 31%, #FF5733 43%, #FF7645 44%, #FF7645 50%, #FF5733 51%, #FF5733 63%, #FF7645 64%, #FF7645 71%, transparent 71%, transparent),
+    radial-gradient(circle at 100% 50%, #FF7645 5%, #FF5733 6%, #FF5733 15%, #FF7645 16%, #FF7645 20%, #FF5733 21%, #FF5733 30%, #FF7645 31%, #FF7645 35%, #FF5733 36%, #FF5733 45%, #FF7645 46%, #FF7645 49%, transparent 50%, transparent),
+    radial-gradient(circle at 0 50%, #FF7645 5%, #FF5733 6%, #FF5733 15%, #FF7645 16%, #FF7645 20%, #FF5733 21%, #FF5733 30%, #FF7645 31%, #FF7645 35%, #FF5733 36%, #FF5733 45%, #FF7645 46%, #FF7645 49%, transparent 50%, transparent);
+background-size: 100px 50px;
+
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+div {
+    position: absolute;
+    bottom: 20px;
+    background: rgba(0, 0, 0, 0.1);
+    padding: 10px 20px;
+    font-size: 18px;
+}
+input {
+    width: 50px;
+    padding: 5px;
+    font-size: 18px;
+    background-color: darksalmon;
+    border: none;
+    text-align: center;
+}
+input:focus {
+    outline: none;
+}
+#cursor {
+    animation: blink 1s infinite;
+}
+@keyframes blink {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+}
