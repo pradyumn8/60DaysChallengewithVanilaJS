@@ -157,4 +157,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/e3b11d5cf2bb242229cb285aaa8f5560d8b9bec3/ProjectDay38">Progressive Blurring ✓</a></td>
             <td><a href="https://loading-bgimage.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/0ecb7e03b22a947951ab600ef000907a8c7afb53/ProjectDay39">Dad Jokes ✓</a></td>
+            <td><a href="https://dad-jokes-webapp.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
