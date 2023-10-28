@@ -161,4 +161,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/0ecb7e03b22a947951ab600ef000907a8c7afb53/ProjectDay39">Dad Jokes ✓</a></td>
             <td><a href="https://dad-jokes-webapp.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/1ab1f51567781cbd15cff38ec7cfcafcf0da0567/ProjectDay40">Content Placeholder ✓</a></td>
+            <td><a href="https://dynamic-content-placeholder.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
