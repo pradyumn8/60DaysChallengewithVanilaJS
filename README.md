@@ -165,4 +165,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/1ab1f51567781cbd15cff38ec7cfcafcf0da0567/ProjectDay40">Content Placeholder ✓</a></td>
             <td><a href="https://dynamic-content-placeholder.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/14b9ed5d0ec2aaea64bd503b202f5c21a7feb30c/ProjectDay41">CanvasPlayground ✓</a></td>
+            <td><a href="https://canvascreation.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
