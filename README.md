@@ -169,4 +169,13 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/14b9ed5d0ec2aaea64bd503b202f5c21a7feb30c/ProjectDay41">CanvasPlayground ✓</a></td>
             <td><a href="https://canvascreation.netlify.app/">Live Project🌐</a></td>
        </tr>
+       </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/7b66009678008a9d26ee09a765c05b37d489b577/ProjectDay42">Drink Water ✓</a></td>
+            <td><a href="https://drink-water-webapp.netlify.app/">Live Project🌐</a></td>
+       </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/2dba7b5f1ca360ee72e99c7678aad986c8a31271/ProjectDay43">Interactive Feedback ✓</a></td>
+            <td><a href="https://feedback-f0rm.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
