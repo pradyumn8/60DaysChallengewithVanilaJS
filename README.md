@@ -178,4 +178,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/2dba7b5f1ca360ee72e99c7678aad986c8a31271/ProjectDay43">Interactive Feedback ✓</a></td>
             <td><a href="https://feedback-f0rm.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/68a32a32de02be12f6d16d74d7fb9e63b4e40fe4/ProjectDay44">Wave Login Form ✓</a></td>
+            <td><a href="https://wave-login-form.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
