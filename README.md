@@ -186,4 +186,16 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/a12ee57152945e4087d8ee18586221bd6c7b17cd/ProjectDay45">Custom FAQ ✓</a></td>
             <td><a href="https://custom-faq.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/868dcd388805d24a313f01f3c24a03f1ff15d993/ProjectDay46">Github Profile ✓</a></td>
+            <td><a href="https://search-for-github-profile.netlify.app/">Live Project🌐</a></td>
+       </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/868dcd388805d24a313f01f3c24a03f1ff15d993/ProjectDay47">Hoverboard ✓</a></td>
+            <td><a href="https://hoverboard-webapp.netlify.app/">Live Project🌐</a></td>
+       </tr>
+        <tr>
+            <td><a href="hhttps://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/868dcd388805d24a313f01f3c24a03f1ff15d993/ProjectDay48">Increment Counter ✓</a></td>
+            <td><a href="https://increment-center.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
