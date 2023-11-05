@@ -195,7 +195,7 @@ Project	Live Demo
             <td><a href="https://hoverboard-webapp.netlify.app/">Live Project🌐</a></td>
        </tr>
         <tr>
-            <td><a href="hhttps://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/868dcd388805d24a313f01f3c24a03f1ff15d993/ProjectDay48">Increment Counter ✓</a></td>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/868dcd388805d24a313f01f3c24a03f1ff15d993/ProjectDay48">Increment Counter ✓</a></td>
             <td><a href="https://increment-center.netlify.app/">Live Project🌐</a></td>
        </tr>
  </table>
