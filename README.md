@@ -200,6 +200,6 @@ Project	Live Demo
        </tr>
         <tr>
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/cd15fe9226e4a6194689b291831116fab582f421/ProjectDay49">Netflix Mobile Navigation ✓</a></td>
-            <td><a href=https://netflix-navigations.netlify.app/">Live Project🌐</a></td>
+            <td><a href="https://netflix-navigations.netlify.app/">Live Project🌐</a></td>
        </tr>
  </table>
