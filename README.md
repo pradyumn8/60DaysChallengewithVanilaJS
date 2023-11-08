@@ -206,4 +206,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/98506e5b62f1a498982eadf989db49d4f1fd6cde/ProjectDay50">Reviving Password Strength ✓</a></td>
             <td><a href="https://reviving-password-strength.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/ca043a58bd653497c122fa9252dc366c212023b2/ProjectDay51">Rotating Navigation ✓</a></td>
+            <td><a href="https://rotating-panel.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
