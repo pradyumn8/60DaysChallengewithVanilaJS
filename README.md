@@ -210,4 +210,20 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/ca043a58bd653497c122fa9252dc366c212023b2/ProjectDay51">Rotating Navigation ✓</a></td>
             <td><a href="https://rotating-panel.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/4a5af84ec98f917226acc5794f09272ad61d6081/ProjectDay52">Scroll Animation ✓</a></td>
+            <td><a href="https://scrollscape-webapp.netlify.app/">Live Project🌐</a></td>
+       </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/3dc963556df35265b4bf07e3bafa0c15af955acf/ProjectDay53">QR Code Generator ✓</a></td>
+            <td><a href="https://qr-code-express.netlify.app/">Live Project🌐</a></td>
+       </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/3dc963556df35265b4bf07e3bafa0c15af955acf/ProjectDay54">Dark & Light Calculator ✓</a></td>
+            <td><a href="https://dark-light-theme-calculator.netlify.app/">Live Project🌐</a></td>
+       </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/3dc963556df35265b4bf07e3bafa0c15af955acf/ProjectDay55">Diwali card ✓</a></td>
+            <td><a href="https://diwali-wishing-card.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
