@@ -2,7 +2,7 @@ anime
 	.timeline({ loop: true })
 	.add({
 		targets: ".ml15 .word",
-		scale: [14, 1],
+		scale: [4, 1],
 		opacity: [0, 1],
 		easing: "easeOutCirc",
 		duration: 800,
@@ -290,4 +290,3 @@ canvas.addEventListener('mouseup', function (e) {
 
 // once the window loads, we are ready for some fireworks!
 window.onload = loop;
-
