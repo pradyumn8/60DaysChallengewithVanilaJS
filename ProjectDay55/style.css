@@ -17,6 +17,7 @@ canvas {
 	cursor: crosshair;
 	display: block;
     position: absolute;
+    z-index: 1;
 }
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
@@ -44,14 +45,15 @@ canvas {
   color: #000;
 }
 
-h1 {
-    font-size: 2em;
-    font-family: cursive;
-    margin-top: 0;
-    color: #fdc830;
-    -webkit-text-stroke: 2px red;
-  
-}
+  h1 {
+      font-size: 2em;
+      font-family: cursive;
+      margin-top: 0;
+      color: #fdc830;
+      -webkit-text-stroke: 2px red;
+      letter-spacing: 2px;
+    
+  }
 #candle-container{
     align-items: center;
     justify-content: center;

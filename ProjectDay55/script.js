@@ -1,4 +1,20 @@
-
+anime
+.timeline({ loop: true })
+.add({
+  targets: ".ml15 .word",
+  scale: [14, 1],
+  opacity: [0, 1],
+  easing: "easeOutCirc",
+  duration: 800,
+  delay: (el, i) => 800 * i,
+})
+.add({
+  targets: ".ml15",
+  opacity: 0,
+  duration: 1000,
+  easing: "easeOutExpo",
+  delay: 1000,
+});
 // when animating on canvas, it is best to use requestAnimationFrame instead of setTimeout or setInterval
 // not supported in all browsers though and sometimes needs a prefix, so we need a shim
 window.requestAnimFrame = ( function() {
