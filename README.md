@@ -223,7 +223,7 @@ Project	Live Demo
             <td><a href="https://dark-light-theme-calculator.netlify.app/">Live Project🌐</a></td>
        </tr>
         <tr>
-            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/3dc963556df35265b4bf07e3bafa0c15af955acf/ProjectDay55">Diwali card ✓</a></td>
-            <td><a href="https://diwali-wishing-card.netlify.app/">Live Project🌐</a></td>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/630ca938a3952fbe7e0638716030354b3443f993/ProjectDay55">Diwali card ✓</a></td>
+            <td><a href="https://wishing-card-diwali.netlify.app/">Live Project🌐</a></td>
        </tr>
  </table>
