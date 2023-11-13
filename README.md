@@ -226,4 +226,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/630ca938a3952fbe7e0638716030354b3443f993/ProjectDay55">Diwali card ✓</a></td>
             <td><a href="https://wishing-card-diwali.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/d4c752d9032d8593592ea02c089c7d4d916ddaf6/ProjectDay56">Random Color Generator ✓</a></td>
+            <td><a href="https://random-elegance-generator.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
