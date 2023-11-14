@@ -230,4 +230,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/d4c752d9032d8593592ea02c089c7d4d916ddaf6/ProjectDay56">Random Color Generator ✓</a></td>
             <td><a href="https://random-elegance-generator.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/95b2c357baa1f3059c814d56adcd4552de557120/ProjectDay57">Visual Image Gallary ✓</a></td>
+            <td><a href="https://image-impression.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
