@@ -234,4 +234,8 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/95b2c357baa1f3059c814d56adcd4552de557120/ProjectDay57">Visual Image Gallary ✓</a></td>
             <td><a href="https://image-impression.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/0fd730cd0dc1eeaa50ddf8126c254de96542c918/ProjectDay58">Pokedex ✓</a></td>
+            <td><a href="https://pokedex-panel.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
