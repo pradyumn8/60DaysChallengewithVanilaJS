@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bug Hunt Blitz ✓</title>
+    <link rel="icon" href="https://fav.farm/🧑‍💻" />
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div class="screen">
+        <h1>Hit The Insect</h1>
+        <button class="btn" id="start-btn">Play Game</button>
+    </div>
+    <div class="screen">
+        <h1>Choose The "Insect" </h1>
+        <ul class="insects-list">
+            <li>
+                <button class="choose-insect-btn">
+                    <p>Fly</p>
+                    <img src="https://pngimg.com/uploads/fly/fly_PNG3945.png" alt="fly">
+                </button>
+            </li>
+
+            <li>
+                <button class="choose-insect-btn">
+                    <p>Mosquito</p>
+                    <img src="https://pngimg.com/uploads/mosquito/small/mosquito_PNG18162.png" alt="mosquito" />
+                </button>
+            </li>
+            <li>
+                <button class="choose-insect-btn">
+                    <p>Spider</p>
+                    <img src="https://pngimg.com/uploads/spider/small/spider_PNG20.png" alt="spider" />
+                </button>
+            </li>
+            <li>
+                <button class="choose-insect-btn">
+                    <p>Roach</p>
+                    <img src="https://pngimg.com/uploads/roach/small/roach_PNG12146.png" alt="roach" />
+                </button>
+            </li>
+        </ul>
+    </div>
+    <div class="screen game-container" id="game-container">
+        <h3 id="time" class="time">Time: 00:00</h3>
+        <h3 id="score" class="score">Score: 0</h3>
+        <h5 class="message" id="message">
+            Game Over
+            <br><button class="btn play-again-btn" id="play-again-btn" >Play Again</button>
+        </h5>
+        
+    </div>
+    <script src="./script.js"></script>
+</body>
+
+</html>
