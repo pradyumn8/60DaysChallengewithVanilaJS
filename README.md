@@ -238,4 +238,12 @@ Project	Live Demo
             <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/0fd730cd0dc1eeaa50ddf8126c254de96542c918/ProjectDay58">Pokedex ✓</a></td>
             <td><a href="https://pokedex-panel.netlify.app/">Live Project🌐</a></td>
        </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/dae97b9e84320c1374c566a269ae9ae805d8a618/ProjectDay59">MovieMania Hub ✓</a></td>
+            <td><a href="https://moviemania-hub.netlify.app/">Live Project🌐</a></td>
+       </tr>
+        <tr>
+            <td><a href="https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/dae97b9e84320c1374c566a269ae9ae805d8a618/ProjectDay60">Bug Hunt Blitz ✓</a></td>
+            <td><a href="https://bug-hunt-blitz.netlify.app/">Live Project🌐</a></td>
+       </tr>
  </table>
