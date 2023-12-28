@@ -1,5 +1,39 @@
-# 60DaysChallengewithVanilaJS
-Project	Live Demo
+# 60 Days Challenge with Vanilla JS
+
+Welcome to my 60 Days Challenge with Vanilla JavaScript! This repository holds a series of projects completed as part of a personal challenge to enhance my skills in JavaScript using vanilla approaches.
+
+I've undertaken this challenge to delve deeper into JavaScript fundamentals, working on a diverse range of projects that explore various functionalities and applications.
+
+Feel free to explore the individual project folders to see each application in action. Don't hesitate to reach out or contribute if you find anything interesting or have suggestions for improvement.
+
+### About Me
+I'm passionate about front-end development and continuously strive to expand my skills and knowledge. Connect with me on [LinkedIn](https://www.linkedin.com/in/pradyumna-v-92a593200/) to see more of my work and projects.
+
+## Project List
+
+### Project 1: Events keyCodes
+- **Description**: Event keyCodes implementation
+- [Live Demo](https://eventskeycode.netlify.app/)
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/923c60dfd089dc4cb17b04fb2c78a283b34634ce/ProjectDay1)
+
+### Project 2: Counter Application
+- **Description**: Simple counter application
+- [Live Demo](https://counter-number-application.netlify.app/)
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/a5c20198507e0cb5890cb20218ec209bc8ad4e92/ProjectDay2)
+
+... (Include the project list as before)
+
+## How to Use
+- Clone the repository: `git clone https://github.com/pradyumn8/60DaysChallengewithVanilaJS.git`
+- Navigate to a specific project folder, e.g., `cd ProjectDay1`
+- Open `index.html` in your browser
+
+## Contribution
+Contributions are welcome! Feel free to open issues or submit PRs to improve the projects.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
  <table border="1">
         <tr>
             <th>Project</th>
