@@ -279,6 +279,30 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 - [Live Demo](https://scrollscape-webapp.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/4a5af84ec98f917226acc5794f09272ad61d6081/ProjectDay52)👨‍💻
 
+### Project 53: QR Code Generator ✓
+- **Description**: QR code generation tool
+- [Live Demo](https://qr-code-express.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/3dc963556df35265b4bf07e3bafa0c15af955acf/ProjectDay53)👨‍💻
+
+### Project 54: Dark & Light Calculator ✓
+- **Description**: Calculator with dark and light themes
+- [Live Demo](https://dark-light-theme-calculator.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/3dc963556df35265b4bf07e3bafa0c15af955acf/ProjectDay54)👨‍💻
+
+### Project 55: Diwali Card ✓
+- **Description**: Diwali festival card creation
+- [Live Demo](https://wishing-card-diwali.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/630ca938a3952fbe7e0638716030354b3443f993/ProjectDay55)👨‍💻
+
+### Project 56: Random Color Generator ✓
+- **Description**: Generates random elegant color combinations
+- [Live Demo](https://random-elegance-generator.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/d4c752d9032d8593592ea02c089c7d4d916ddaf6/ProjectDay56)👨‍💻
+
+### Project 57: Visual Image Gallery ✓
+- **Description**: Visual representation of an image gallery
+- [Live Demo](https://image-impression.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/95b2c357baa1f3059c814d56adcd4552de557120/ProjectDay57)👨‍💻
 
 
 
