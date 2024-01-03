@@ -119,7 +119,32 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 - [Live Demo](https://debouncerpage.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/79d4f199894d7f45383715567cd2561064626bdc/ProjectDay20)👨‍💻
 
+### Project 21: Flex Panels ✓
+- **Description**: Interactive flex panels
+- [Live Demo](https://drags-and-drop.netlify.app/li)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/82c7a43085775568993a39c769b81375c2a00052/ProjectDay21)👨‍💻
 
+### Project 22: Vanilla JS Slider ✓
+- **Description**: Custom vanilla JavaScript slider
+- [Live Demo](https://click-and-drags.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/308e470fc1e28990f38441cef21ab7c7169d706d/ProjectDay22)👨‍💻
+
+### Project 23: Elegant Slider ✓
+- **Description**: Stylish slider implementation
+- [Live Demo](https://elegantslider.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/9339d5f0ad4d9db3c5a447d5c8ac81cb01a21296/ProjectDay23)👨‍💻
+
+### Project 24: Dynamic Background Slider ✓
+- **Description**: Slider with dynamic background effects
+- [Live Demo](https://dynamicbackgroundslider.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/67a4c5ee48773d31b6caea9cd01ec910441df3d6/ProjectDay24)👨‍💻
+
+### Project 25: Serenity Landing Page ✓
+- **Description**: Landing page design with serene aesthetics
+- [Live Demo](https://serentitylandingpage.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/fe14ccc1f27f4735d819ec925f5ee5be312235a5/ProjectDay25)👨‍💻
+
+<!-- Keep the rhythm going with your project list! -->
 
 
 
