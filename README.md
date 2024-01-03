@@ -199,7 +199,36 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 - [Live Demo](https://animated-navigation-menu.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/f35b40cc8b5af2478420b6608ddc386fd1cb30b1/ProjectDay36)👨‍💻
 
-<!-- You're doing great! Continue your fantastic work! -->
+### Project 37: Auto Text Effect ✓
+- **Description**: Auto text effect generation
+- [Live Demo](https://autotext-effect-webapp.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/4e2122d87fe745f5082023664821a42161922415/ProjectDay37)👨‍💻
+
+### Project 38: Progressive Blurring ✓
+- **Description**: Image progressive blurring
+- [Live Demo](https://loading-bgimage.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/e3b11d5cf2bb242229cb285aaa8f5560d8b9bec3/ProjectDay38)👨‍💻
+
+### Project 39: Dad Jokes ✓
+- **Description**: Dad jokes web application
+- [Live Demo](https://dad-jokes-webapp.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/0ecb7e03b22a947951ab600ef000907a8c7afb53/ProjectDay39)👨‍💻
+
+### Project 40: Content Placeholder ✓
+- **Description**: Dynamic content placeholder
+- [Live Demo](https://dynamic-content-placeholder.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/1ab1f51567781cbd15cff38ec7cfcafcf0da0567/ProjectDay40)👨‍💻
+
+### Project 41: CanvasPlayground ✓
+- **Description**: Playground for HTML5 canvas
+- [Live Demo](https://canvascreation.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/14b9ed5d0ec2aaea64bd503b202f5c21a7feb30c/ProjectDay41)👨‍💻
+
+### Project 42: Drink Water ✓
+- **Description**: Drink water reminder web app
+- [Live Demo](https://drink-water-webapp.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/7b66009678008a9d26ee09a765c05b37d489b577/ProjectDay42)👨‍💻
+
 
 
 
