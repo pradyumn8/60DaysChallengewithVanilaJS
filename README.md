@@ -17,7 +17,7 @@ I'm passionate about front-end development and continuously strive to expand my 
 ## Contribution
 Contributions are welcome! Feel free to open issues or submit PRs to improve the projects.
 
-## Project List
+# Projects with Vanilla JS
 
 ### Project 1: Events keyCodes ✓
 - **Description**: Event keyCodes implementation
@@ -29,8 +29,48 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 - [Live Demo](https://counter-number-application.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/a5c20198507e0cb5890cb20218ec209bc8ad4e92/ProjectDay2)👨‍💻
 
-### Project 3: Palindrome Checker ✓ ✓
-- **Description**: Simple counter application
+### Project 3: Palindrome Checker ✓
+- **Description**: Checks for palindromes
+- [Live Demo](https://palindrimechecker.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/923c60dfd089dc4cb17b04fb2c78a283b34634ce/ProjectDay3)👨‍💻
+
+### Project 4: RGB Color Generator ✓
+- **Description**: Generates RGB colors
+- [Live Demo](https://rgbcolor-generator.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/923c60dfd089dc4cb17b04fb2c78a283b34634ce/ProjectDay4)👨‍💻
+
+### Project 5: ASCII and Unicode Detector ✓
+- **Description**: Detects ASCII and Unicode characters
+- [Live Demo](https://asciiandunicodedetector.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/923c60dfd089dc4cb17b04fb2c78a283b34634ce/ProjectDay5)👨‍💻
+
+### Project 6: NetWork Strength Checker ✓
+- **Description**: Checks network strength
+- [Live Demo](https://networkstrength.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/923c60dfd089dc4cb17b04fb2c78a283b34634ce/ProjectDay6)👨‍💻
+
+### Project 7: Loan Calculator ✓
+- **Description**: Calculates loan details
+- [Live Demo](https://loan-generator.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/923c60dfd089dc4cb17b04fb2c78a283b34634ce/ProjectDay7)👨‍💻
+
+### Project 8: Time and Date Widget ✓
+- **Description**: Widget for time and date
+- [Live Demo](https://dateandtimewidget.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/923c60dfd089dc4cb17b04fb2c78a283b34634ce/ProjectDay8)👨‍💻
+
+### Project 9: Anolog Clock Application ✓
+- **Description**: An analog clock application
+- [Live Demo](https://anologclockapplication.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/923c60dfd089dc4cb17b04fb2c78a283b34634ce/ProjectDay9)👨‍💻
+
+### Project 10: Theme Clock ✓
+- **Description**: Clock with theme options
+- [Live Demo](https://themeanddigtal-clock.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/923c60dfd089dc4cb17b04fb2c78a283b34634ce/ProjectDay10)👨‍💻
+
+
+
  <table border="1">
         <tr>
             <th>Project</th>
