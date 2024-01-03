@@ -144,7 +144,33 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 - [Live Demo](https://serentitylandingpage.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/fe14ccc1f27f4735d819ec925f5ee5be312235a5/ProjectDay25)👨‍💻
 
-<!-- Keep the rhythm going with your project list! -->
+### Project 26: Drag N Drop ✓
+- **Description**: Drag-and-drop functionality implemented
+- [Live Demo](https://drags-and-drop.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/e68907f85d2da99a9c0bc9e8cc1a2ad5ea6717fb/ProjectDay26)👨‍💻
+
+### Project 27: Mobile Tab Navigation ✓
+- **Description**: Tab navigation optimized for mobile
+- [Live Demo](https://tabmobinav.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/ca331e9a9a47c1e29af94706b5e234fc1e7bf354/ProjectDay27)👨‍💻
+
+### Project 28: DoubleTap Love ✓
+- **Description**: Double tap effect implemented
+- [Live Demo](https://doubletaplove.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/71565bd1bb054ddd25f619919b9cff6d032a0527/ProjectDay28)👨‍💻
+
+### Project 29: Image Carousel ✓
+- **Description**: Interactive image carousel
+- [Live Demo](https://images-carousel.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/97e02b759d784a2dea9ec0d8009ba5d9c7f000c4/ProjectDay29)👨‍💻
+
+### Project 30: Mouse Shadow ✓
+- **Description**: Dynamic mouse shadow effect
+- [Live Demo](https://mouse-shadow-contenteditable.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/2d69b37f60a4a22da08be018ab97cdd13dc2ec4c/ProjectDay30)👨‍💻
+
+<!-- Keep the momentum going with your project descriptions! -->
+
 
 
 
