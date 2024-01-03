@@ -254,6 +254,30 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 - [Live Demo](https://hoverboard-webapp.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/868dcd388805d24a313f01f3c24a03f1ff15d993/ProjectDay47)👨‍💻
 
+### Project 48: Increment Counter ✓
+- **Description**: Incremental counter application
+- [Live Demo](https://increment-counter-webapp.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/6b52476ee464f3fdf082f0e1d9419dcd79fe94c9/ProjectDay48)👨‍💻
+
+### Project 49: Netflix Mobile Navigation ✓
+- **Description**: Netflix-style mobile navigation
+- [Live Demo](https://netflix-navigations.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/cd15fe9226e4a6194689b291831116fab582f421/ProjectDay49)👨‍💻
+
+### Project 50: Reviving Password Strength ✓
+- **Description**: Password strength checker
+- [Live Demo](https://reviving-password-strength.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/98506e5b62f1a498982eadf989db49d4f1fd6cde/ProjectDay50)👨‍💻
+
+### Project 51: Rotating Navigation ✓
+- **Description**: Interactive rotating navigation
+- [Live Demo](https://rotating-panel.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/ca043a58bd653497c122fa9252dc366c212023b2/ProjectDay51)👨‍💻
+
+### Project 52: Scroll Animation ✓
+- **Description**: Scroll-triggered animations
+- [Live Demo](https://scrollscape-webapp.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/4a5af84ec98f917226acc5794f09272ad61d6081/ProjectDay52)👨‍💻
 
 
 
