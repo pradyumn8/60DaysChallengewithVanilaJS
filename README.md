@@ -304,6 +304,20 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 - [Live Demo](https://image-impression.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/95b2c357baa1f3059c814d56adcd4552de557120/ProjectDay57)👨‍💻
 
+### Project 58: Pokedex ✓
+- **Description**: Interactive Pokedex web app
+- [Live Demo](https://pokedex-panel.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/0fd730cd0dc1eeaa50ddf8126c254de96542c918/ProjectDay58)👨‍💻
+
+### Project 59: MovieMania Hub ✓
+- **Description**: Movie information hub
+- [Live Demo](https://moviemania-hub.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/dae97b9e84320c1374c566a269ae9ae805d8a618/ProjectDay59)👨‍💻
+
+### Project 60: Bug Hunt Blitz ✓
+- **Description**: Bug hunting game
+- [Live Demo](https://bug-hunt-blitz.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/dae97b9e84320c1374c566a269ae9ae805d8a618/ProjectDay60)👨‍💻
 
 
  <table border="1">
