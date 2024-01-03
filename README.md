@@ -169,7 +169,38 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 - [Live Demo](https://mouse-shadow-contenteditable.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/2d69b37f60a4a22da08be018ab97cdd13dc2ec4c/ProjectDay30)👨‍💻
 
-<!-- Keep the momentum going with your project descriptions! -->
+### Project 31: Speech Synthesis ✓
+- **Description**: Speech synthesis using web APIs
+- [Live Demo](https://speechs-synthesis.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/0f5cdc813a2a77fd993451caf82594386a142f8d/ProjectDay31)👨‍💻
+
+### Project 32: Drum Kit ✓
+- **Description**: Interactive drum kit web application
+- [Live Demo](https://drum-kit-web-application.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/a509e9bbc6b3ba68fda1ef625dac24c687b8ab3a/ProjectDay32)👨‍💻
+
+### Project 33: 3D Boxes Playground ✓
+- **Description**: Playground for 3D box manipulation
+- [Live Demo](https://3d-boxes-playgrround.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/cc8828e66b1ef20b19939f8dfd9f538eaec3f626/ProjectDay33)👨‍💻
+
+### Project 34: Animated Countdown ✓
+- **Description**: Animated countdown timer
+- [Live Demo](https://countdownanimation.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/a9c446c59d59d0de76d5cd680edf1dcbf421422c/ProjectDay34)👨‍💻
+
+### Project 35: Speech Detection ✓
+- **Description**: Speech detection and interaction
+- [Live Demo](https://voice-detection.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/32743f4afbe39c56242614e7d063108fea2b4338/ProjectDay35)👨‍💻
+
+### Project 36: Animated Navigation ✓
+- **Description**: Animated navigation menu
+- [Live Demo](https://animated-navigation-menu.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/f35b40cc8b5af2478420b6608ddc386fd1cb30b1/ProjectDay36)👨‍💻
+
+<!-- You're doing great! Continue your fantastic work! -->
+
 
 
 
