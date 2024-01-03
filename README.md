@@ -229,6 +229,30 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 - [Live Demo](https://drink-water-webapp.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/7b66009678008a9d26ee09a765c05b37d489b577/ProjectDay42)👨‍💻
 
+### Project 43: Interactive Feedback ✓
+- **Description**: Interactive feedback form
+- [Live Demo](https://feedback-f0rm.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/2dba7b5f1ca360ee72e99c7678aad986c8a31271/ProjectDay43)👨‍💻
+
+### Project 44: Wave Login Form ✓
+- **Description**: Wave-styled login form
+- [Live Demo](https://wave-login-form.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/68a32a32de02be12f6d16d74d7fb9e63b4e40fe4/ProjectDay44)👨‍💻
+
+### Project 45: Custom FAQ ✓
+- **Description**: Custom FAQ section
+- [Live Demo](https://custom-faq.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/a12ee57152945e4087d8ee18586221bd6c7b17cd/ProjectDay45)👨‍💻
+
+### Project 46: Github Profile ✓
+- **Description**: Github profile search tool
+- [Live Demo](https://search-for-github-profile.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/868dcd388805d24a313f01f3c24a03f1ff15d993/ProjectDay46)👨‍💻
+
+### Project 47: Hoverboard ✓
+- **Description**: Interactive hoverboard effect
+- [Live Demo](https://hoverboard-webapp.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/868dcd388805d24a313f01f3c24a03f1ff15d993/ProjectDay47)👨‍💻
 
 
 
