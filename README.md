@@ -69,6 +69,58 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 - [Live Demo](https://themeanddigtal-clock.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/923c60dfd089dc4cb17b04fb2c78a283b34634ce/ProjectDay10)👨‍💻
 
+### Project 11: Age Calculator ✓
+- **Description**: Calculates age based on birthdate
+- [Live Demo](https://agecalculations.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/923c60dfd089dc4cb17b04fb2c78a283b34634ce/ProjectDay11)👨‍💻
+
+### Project 12: To-Do List Application ✓
+- **Description**: Simple to-do list manager
+- [Live Demo](https://to-donote.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/6afa95ab9748243b34fc07039c9fa40eab111f1b/ProjectDay12)👨‍💻
+
+### Project 13: NoteVista ✓
+- **Description**: Note-taking application
+- [Live Demo](https://note-vista.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/0d7f27bb287764c0cad089ecacff32011ac86081/ProjectDay13)👨‍💻
+
+### Project 14: Enchanting Password Generator ✓
+- **Description**: Generates secure passwords
+- [Live Demo](https://pwdgenerators.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/0d7f27bb287764c0cad089ecacff32011ac86081/ProjectDay14)👨‍💻
+
+### Project 15: MagnetPara Generator ✓
+- **Description**: Generates magnetic paragraphs
+- [Live Demo](https://magnetparagenerator.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/9d16bf935cc2d595ca7a48101f1bc3b8ce134551/ProjectDay15)👨‍💻
+
+### Project 16: Vowel Checker ✓
+- **Description**: Checks for vowels in a string
+- [Live Demo](https://vowelschecker.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/c1423ab7c33ddcc7b4601fae6b2b093846ac80ed/ProjectDay16)👨‍💻
+
+### Project 17: Review Card ✓
+- **Description**: Interactive review card display
+- [Live Demo](https://reviewscard.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/32874796b1ac5a7439db9deaa654a1b087123688/ProjectDay17)👨‍💻
+
+### Project 18: Dynamic Styling Playground ✓
+- **Description**: Playground for dynamic styling
+- [Live Demo](https://dynamicstylingplayground.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/ba369dd53bebeb0d6c3128c33910770f3e484a1e/ProjectDay18)👨‍💻
+
+### Project 19: HTML Video Player ✓
+- **Description**: Custom HTML video player
+- [Live Demo](https://html-videoplayer.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/6afb57856fc3f1106a71be57e43c401514741d81/ProjectDay19)👨‍💻
+
+### Project 20: Debouncer Implemented Page ✓
+- **Description**: Page with implemented debouncer
+- [Live Demo](https://debouncerpage.netlify.app/)🌐
+- [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/79d4f199894d7f45383715567cd2561064626bdc/ProjectDay20)👨‍💻
+
+
+
 
 
  <table border="1">
