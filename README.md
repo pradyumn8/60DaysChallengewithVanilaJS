@@ -7,7 +7,7 @@ I've undertaken this challenge to delve deeper into JavaScript fundamentals, wor
 Feel free to explore the individual project folders to see each application in action. Don't hesitate to reach out or contribute if you find anything interesting or have suggestions for improvement.
 
 ### About Me
-I'm passionate about front-end development and continuously strive to expand my skills and knowledge. Connect with me on [LinkedIn](https://www.linkedin.com/in/pradyumna-v-92a593200/) to see more of my work and projects.
+I'm passionate about front-end development and continuously strive to expand my skills and knowledge. Connect with me on [LinkedIn](https://www.linkedin.com/in/pradyumna-web-developer/) to see more of my work and projects.
 
 ## How to Use
 - Clone the repository: `git clone https://github.com/pradyumn8/60DaysChallengewithVanilaJS.git`
