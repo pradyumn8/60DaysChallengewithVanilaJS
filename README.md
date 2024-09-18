@@ -261,7 +261,7 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 
 ### Project 49: Netflix Mobile Navigation ✓
 - **Description**: Netflix-style mobile navigation
-- [Live Demo](https://netflix-navigations.netlify.app/)🌐
+- [Live Demo](https://netliflix-navigations.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/cd15fe9226e4a6194689b291831116fab582f421/ProjectDay49)👨‍💻
 
 ### Project 50: Reviving Password Strength ✓
