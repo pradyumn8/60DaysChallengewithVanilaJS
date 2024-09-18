@@ -121,7 +121,7 @@ Contributions are welcome! Feel free to open issues or submit PRs to improve the
 
 ### Project 21: Flex Panels ✓
 - **Description**: Interactive flex panels
-- [Live Demo](https://drags-and-drop.netlify.app/li)🌐
+- [Live Demo](https://flexs-panels.netlify.app/)🌐
 - [GitHub Repository](https://github.com/pradyumn8/60DaysChallengewithVanilaJS/tree/82c7a43085775568993a39c769b81375c2a00052/ProjectDay21)👨‍💻
 
 ### Project 22: Vanilla JS Slider ✓
